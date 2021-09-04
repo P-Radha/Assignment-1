@@ -1,0 +1,23 @@
+package assignment1;
+
+public class Datatypes {
+
+	public static void main(String[] args) {
+		int int_1 = 21;
+		float  float_2 = 34.14f;
+		double double_3 = 34.144747003;
+		char alphabet_4 = 'S';
+		String word_5 = "Java";
+		boolean boolean_6 = true;
+		byte byte_1 = 127;
+		System.out.println(int_1);
+		System.out.println(float_2);
+		System.out.println(double_3);
+		System.out.println(alphabet_4);
+		System.out.println(word_5);
+		System.out.println(boolean_6);
+		System.out.println(byte_1);
+		
+	}
+
+}
